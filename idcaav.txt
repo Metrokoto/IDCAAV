@@ -1,0 +1,503 @@
+[Adblock Plus 3.6]
+! Title: I Don't Care About Age Verification
+! Description: An AdBlock Plus blocklist intended to be used alongside Fanboy's Agegate List.
+! Version: 8 October 2025
+! Homepage: https://github.com/Metrokoto/IDCAAV
+! Expires: 7 days (update frequency)
+! Syntax: AdBlock
+
+! Yoti
+!! Yoti - Domains
+||yoti.com^
+||yotisign.com^
+||yoti.world^
+||yoti.report-uri.io^
+!! Yoti - Hosted Domains
+||provemyage.com^
+!! Yoti - Subnets
+||185.116.52.*^
+||185.116.53.*^
+||185.116.54.*^
+||185.116.55.*^
+
+! Ver.iD
+!! Ver.iD - Domains
+||ver.id^
+!! Ver.iD - IP Addresses
+||51.158.130.252^
+
+! Digidentity
+! Note: These bastards have too many domains, so a wildcard it is!
+!! Digidentity - Domains (Wildcard, see the note above)
+||digidentity.*^
+
+! Datakeeper
+!! Datakeeper - Domains
+||datakeeper.nl^
+!! Datakeeper - IP Addresses
+||31.7.2.155^
+
+! DigiD
+!! DigiD - Domains
+||digid.nl^
+||logius.nl^
+
+! Nect
+!! Nect - Domains
+||nect.com^
+
+! Truid
+!! Truid - Domains
+||truid.app^
+
+! ReadID (Inverid, f.k.a. InnoValor)
+!! ReadID - Domains
+||readid.com^
+||inverid.com^
+||signicat.com^
+||signicat.imgix.net^
+
+! Digitale Overheid
+!! Digitale Overheid - Domains
+||digitaleoverheid.nl^
+
+! Onfido (Entrust)
+!! Onfido - Domains
+||onfido.com^
+||entrust.com^
+||entrust.net^
+
+! Facetec
+!! Facetec - Domains
+||facetec.com^
+
+! WebID
+!! WebID - Domains
+||webid-solutions.com^
+!! WebID - IP Addresses
+||136.243.160.8^
+
+! Freja
+!! Freja - Domains
+||frejaeid.com^
+!! Freja - IP Addresses
+||193.14.90.68^
+
+! Yivi
+!! Yivi - Domains
+||yivi.app^
+!! Yivi - IP Addresses
+||131.174.30.54^
+
+! eIDAS
+!! eIDAS - Domains
+||*.ec.europa.eu^
+||eidas.ec.europa.eu^
+
+! Audkenni
+!! Audkenni - Domains
+||audkenni.is^
+
+! hopae
+!! hopae - Domains
+||hopae.com^
+
+! eIDeasy
+!! eIDeasy - Domains
+||eideasy.com^
+
+! Evrotrust
+! Note: These bastards have too many domains, so a wildcard it is!
+!! Evrotrust - Domains (Wildcard, see the note above)
+||evrotrust.*^
+
+! identity
+!! identity - Domains
+||identity.com^
+
+! ondato
+!! ondato - Domains
+||ondato.com^
+
+! iDenfy
+!! iDenfy - Domains
+||idenfy.com^
+
+! Samleikin
+!! Samleikin - Domains
+||samleikin.fo^
+||cdn.fo^
+
+! Suomi.fi
+!! Suomi.fi - Domains
+||suomi.fi^
+||dvv.fi^
+
+! ABA
+!! ABA - Domains
+||aba.org.do^
+
+! ADACOM
+!! ADACOM - Domains
+||adacom.com^
+
+! BORICA
+!! BORICA - Domains
+||borica.bg^
+
+! myID.be
+!! myID.be - Domains
+||myid.be^
+||eid.belgium.be^
+
+! Certeurope
+!! Certeurope - Domains
+||certeurope.fr^
+
+! Certsign
+!! Certsign - Domains
+||certsign.ro^
+
+! Chave Movel
+!! Chave Movel - Domains
+||gov.pt^
+||autenticacao.gov.pt^
+
+! eid.hr
+!! eid.hr - Domains
+||eid.hr^
+
+! portalobcana.gov.cz
+!! portalobcana.gov.cz - Domains
+||portalobcana.gov.cz^
+
+! ID-kaart
+!! ID-kaart - Domains
+||id.ee^
+||idkaart.ee^
+
+! Finnish Trust Network
+!! Finnish Trust Network - Domains
+||kyberturvallisuuskeskus.fi^
+
+! GSE
+!! GSE - Domains
+||gse.com.co^
+
+! D-Trust
+!! D-Trust - Domains
+||d-trust.net^
+
+! DIIA
+!! DIIA - Domains
+||diia.gov.ua^
+
+! Halcom
+!! Halcom - Domains
+||halcom.com^
+
+! Harica
+!! Harica - Domains
+||harica.gr^
+
+! ID Austria
+!! ID Austria - Domains
+||ida.gv.at
+||idaustria.gv.at^
+||digitalaustria.gv.at^
+
+! InfoCert
+!! InfoCert - Domains
+||infocert.it^
+||infocert.digital^
+
+! LT ID
+!! LT ID - Domains
+||ltid.lt^
+||gosign.lt^
+
+! eParaksts
+!! eParaksts - Domains
+||eparaksts.lv^
+
+! Mobile-ID
+!! Mobile-ID - Domains
+||mobile-id.lt^
+
+! FranceConnect
+!! FranceConnect - Domains
+||franceconnect.gouv.fr^
+||lidentitenumerique.laposte.fr^
+
+! MojeID
+!! MojeID - Domains
+||mojeid.cz^
+||mbank.pl^
+||kir.pl^
+
+! Trustgate
+!! Trustgate - Domains
+||msctrustgate.com^
+
+! MitID
+!! MitID - Domains
+||mitid.dk^
+
+! BankID
+!! BankID - Domains
+||bankid.com^
+||bankid.no^
+
+! PSC World
+!! PSC World - Domains
+||pscworld.com^
+
+! SPID
+!! SPID - Domains
+||spid.gov.it^
+||spid.governo.it^
+||spid.info^
+
+! id3global
+!! id3global - Domains
+||gbg.com^
+||gbgplc.com^
+||id3global.com^
+||id3globalsupport.com^
+
+! OneID
+!! OneID - Domains
+||oneid.uk^
+||openbanking.org.uk^
+
+! Scrive
+!! Scrive - Domains
+||scrive.com^
+
+! ConsentID
+!! ConsentID - Domains
+||eid.gov.rs^
+||aeteurope.com^
+
+! SerproID
+!! SerproID - Domains
+||serpro.gov.br^
+
+! Smart-ID
+!! Smart-ID - Domains
+||smart-id.com^
+
+! VIDA
+!! VIDA - Domains
+||vida.id^
+
+! Trans Sped
+!! Trans Sped - Domains
+||transsped.ro^
+||trans-sped.hu^
+
+! TrustAsia
+!! TrustAsia - Domains
+||trustasia.com^
+
+! SimplySign
+!! SimplySign - Domains
+||certum.eu^
+||certum.pl^
+
+! Verifai
+!! Verifai - Domains
+||verifai.com^
+
+! Veriff
+!! Veriff - Domains
+||veriff.com^
+
+! ZealiD
+!! ZealiD - Domains
+||zealid.com^
+
+! certME
+!! certME - Domains
+||certme.ro^
+
+! eDO App
+!! eDO App - Domains
+||edoapp.pl^
+
+! eMudhra
+!! eMudhra - Domains
+||emudhra.com^
+||emudhra.net^
+||emudhradigital.com^
+||e-mudhradigital.com^
+
+! itsme
+!! itsme - Domains
+||itsme-id.com^
+
+! IDIN
+!! IDIN - Domains
+||idin.nl^
+
+! Smartsearch
+!! Smartsearch - Domains
+||smartsearch.com^
+||credas.com^
+||smartsearchonline.com^
+||smartsearch.plus^
+
+! Advance AI
+!! Advance AI - Domains
+||advance.ai^
+
+! Strise
+!! Strise - Domains
+||strise.ai^
+||atomico.com^
+
+! Incode
+!! Incode - Domains
+||incode.com^
+||authenticid.com^
+
+! Sardine
+!! Sardine - Domains
+||sardine.ai^
+
+! KYCAID
+!! KYCAID - Domains
+||kycaid.com^
+
+! Veridas
+!! Veridas - Domains
+||veridas.com^
+
+! AiPrise
+!! AiPrise - Domains
+||aiprise.com^
+
+! Vespia
+!! Vespia - Domains
+||vespia.io^
+
+! Verified
+!! Verified - Domains
+||verified.inc^
+
+! Signzy
+!! Signzy - Domains
+||signzy.com^
+||signzy.ai^
+
+! FullCircl
+!! FullCircl - Domains
+||fullcircl.com^
+||ncino.com^
+||artesiansolutions.com^
+
+! KYC Hub
+!! KYC Hub - Domains
+||kychub.com^
+
+! KYC360 (f.k.a. RiskScreen)
+!! KYC360 - Domains
+||kyc360.com^
+||riskscreen.com^
+
+! Seon
+!! Seon - Domains
+||seon.io^
+
+! IDMERIT
+!! IDMERIT - Domains
+||idmerit.com^
+||idmerit.co.uk^
+
+! Sumsub
+!! Sumsub - Domains
+||sumsub.com^
+
+! AU10TIX
+!! AU10TIX - Domains
+||au10tix.com^
+
+! IDnow
+!! IDnow - Domains
+||idnow.io^
+
+! Shufti Pro
+!! Shufti Pro - Domains
+||shuftipro.com^
+
+! ComplyAdvantage
+!! ComplyAdvantage - Domains
+||complyadvantage.com^
+
+! Persona
+!! Persona - Domains
+||withpersona.com^
+
+! Jumio
+!! Jumio - Domains
+||jumio.com^
+||jumio.ai^
+
+! Regula
+!! Regula - Domains
+||regulaforensics.com^
+
+! Trulioo
+!! Trulioo - Domains
+||trulioo.com^
+
+! Lexis Nexis
+!! Lexis Nexis
+||lexisnexis.com^
+
+! CLEAR
+!! CLEAR - Domains
+||clearme.com^
+
+! NICE Actimize
+!! NICE Actimize - Domains
+||niceactimize.com^
+
+! KYC-Chain
+!! KYC-Chain - Domains
+||kyc-chain.com^
+
+! SP Global
+!! SP Global - Domains
+||spglobal.com^
+
+! Pega
+!! Pega - Domains
+||pega.com^
+
+! KYC Portal
+!! KYC Portal - Domains
+||kycportal.com^
+
+! FIS Global
+!! FIS Global - Domains
+||fisglobal.com^
+
+! Dow Jones
+!! Dow Jones - Domains
+||dowjones.com^
+
+! Lenvi (f.k.a. Equiniti)
+!! Lenvi - Domains
+||equiniti.com^
+||lenvi.com^
+
+! HID Global
+!! HID Global - Domains
+||hidglobal.com^
+
+! CoorpID
+!! CoorpID - Domains
+||coorpid.com^
+||encompasscorporation.com^
+||blacksmithkyc.com^
