@@ -1,7 +1,8 @@
 [Adblock Plus 3.6]
 ! Title: I Don't Care About Age Verification
 ! Description: An AdBlock Plus blocklist intended to be used alongside Fanboy's Agegate List.
-! Version: 8 October 2025
+! Version: 9 October 2025
+! License: https://github.com/Metrokoto/IDCAAV/blob/main/LICENSE
 ! Homepage: https://github.com/Metrokoto/IDCAAV
 ! Expires: 7 days (update frequency)
 ! Syntax: AdBlock
