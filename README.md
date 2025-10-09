@@ -1,2 +1,2 @@
-# IDCAAV
-An AdBlock Plus blocklist for agressively resisting forced age verification, KYC, KYB and AML 
+# I Don't Care About Age Verification
+An AdBlock Plus blocklist for aggressively resisting forced age verification, KYC, KYB and AML 
