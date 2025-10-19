@@ -502,3 +502,7 @@
 ||coorpid.com^
 ||encompasscorporation.com^
 ||blacksmithkyc.com^
+
+! Veratad
+!! Veratad
+||veratad.com^
