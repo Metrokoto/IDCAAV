@@ -504,5 +504,5 @@
 ||blacksmithkyc.com^
 
 ! Veratad
-!! Veratad
+!! Veratad - Domains
 ||veratad.com^
