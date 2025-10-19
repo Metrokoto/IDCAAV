@@ -506,3 +506,7 @@
 ! Veratad
 !! Veratad - Domains
 ||veratad.com^
+
+! k-ID
+!! k-ID - Domains
+||k-id.com^
