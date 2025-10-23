@@ -510,3 +510,16 @@
 ! k-ID
 !! k-ID - Domains
 ||k-id.com^
+
+! gov.uk (OneLogin)
+! Note: 
+! Blocking this may cause issues with gov.uk hosted services
+! However it is intended for use by the upcoming "Digital ID" scheme
+! It has been confirmed to be off-shored and a security risk to citizens
+! https://youtu.be/HIVrgZFJBJI
+!! gov.uk (OneLogin) - Domains
+||account.gov.uk^
+||sign-in.service.gov.uk^
+!! gov.uk (OneLogin) - Wildcards (In case the domain ever changes slightly)
+||sign-in.*.gov.uk^
+||account.*.gov.uk^
